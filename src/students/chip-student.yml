@@ -1,0 +1,96 @@
+theme: You can choose a theme and skin colors.
+
+template: "online-cv"
+skin: "blue"
+
+basic_info: Personal info
+
+# Your_full_name
+
+    first_name: Oscar 
+    last_name: Mora
+
+    # Define yourself in 4-5 words
+    motto: Dinamic
+    
+    # focus
+    focus: developer back end
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      Systems engineer, With more than 9 years they work in a national company, performing different jobs, from Developer and Support IT.
+
+    # Contact Information
+    email: omoram28@gmail.com #optional
+    phone:  8302-2883 #optional
+
+    github: chip-student
+
+     # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Basic
+#Previous studies.
+education: 
+ - degree: Licenciatura en Ciencias De La Computación
+Con Énfasis En Desarrollo De Aplicaciones Informáticas
+      university: Universidad Metropolitana Castro Carazo
+      # optional
+      university_logo: 
+      time: 2011-2015
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+#Previous jobs.
+experiences: 
+
+- role: Developer
+      time: 2018 - 2021
+      company: Decosoft, Costa Rica
+      # optional
+      company_logo: https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.deco-soft.com%2Fcontactenos%2F&psig=AOvVaw2dkr286d-C8gBbdhV1WxwZ&ust=1613437267977000&source=images&cd=vfe&ved=2ahUKEwiqiYmr2OruAhUacDABHUboCDMQjRx6BAgAEAc
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point
+
+
+projects: Describe the projects you've built as a developer.
+publications: Any articles you have published.
+skills: 
+  toolset:
+      - name: Java
+        level: 40%
+
+      - name: Oracle Forms & Reports
+        level: 70%
+
+      - name: C#
+        level: 30%
+
+      - name: HTML5 & CSS
+        level: 25%
+
+      - name: Visual FoxPro
+        level: 50%
+
+      - name: Oracle Pl/Sql
+        level: 75%
